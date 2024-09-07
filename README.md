@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Elgun Akbar</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front+end+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="Typing SVG" /></a>
 
 <img align="right" alt="" width="400" src="https://s5.ezgif.com/tmp/ezgif-5-7f6e4a31d8.gif">
 <ul>
