@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="Typing SVG" /></a>
 
-<img align="right" alt="" width="400" src="https://s5.ezgif.com/tmp/ezgif-5-7f6e4a31d8.gif">
 <ul>
   <li>👋 Hi, I’m @Elgunakb</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
