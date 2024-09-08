@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Elgun Akbar</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/elgunakb">Elgun Akbar</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-<!-- <a href="https://git.io/typing-svg"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="Typing SVG" /></a> -->
+<a href="https://git.io/typing-svg"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="Typing SVG" /></a>
 
 <ul>
   <li>👋 Hi, I’m @Elgunakb</li>
