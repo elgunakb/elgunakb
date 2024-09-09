@@ -26,10 +26,19 @@ const elgun = {
 
 
 #### Popular Project
-[API-CONTRACT-TOOL](https://github.com/elgunakb/api-contrat-tool)
-[TODO-MERN-STACK](https://github.com/elgunakb/todo-app-mern-stack)
-[RENT-A-CAR](https://github.com/elgunakb/rent-a-car-react-app)
-[CRYPTO-MARKETPLACE](https://github.com/elgunakb/crypto-marketplace-app)
+## My Projects
+
+🚀 **[API Contract Tool](https://github.com/elgunakb/api-contrat-tool)**  
+A tool for making API requests and displaying responses in different formats.
+
+📝 **[TODO MERN Stack](https://github.com/elgunakb/todo-app-mern-stack)**  
+A full-stack Todo app with a REST API backend and React frontend.
+
+🚗 **[Rent-A-Car](https://github.com/elgunakb/rent-a-car-react-app)**  
+A rent-a-car service with light and dark themes, animations, and responsive design.
+
+💰 **[Crypto Marketplace](https://github.com/elgunakb/crypto-marketplace-app)**  
+A platform for buying and selling cryptocurrencies with real-time data.
 
 
 <a href="https://github.com/elgunakb/api-contrat-tool">
